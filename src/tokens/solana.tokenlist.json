@@ -72931,6 +72931,106 @@
       "extensions": {
         "website": "https://cerebro.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C2WpsuzfcxutC9Eabad2hptVu5AYLbApMDXG8pMTfiZV",
+      "symbol": "HUZ",
+      "name": "HUZI",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Lahsini/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6gAfvRhDCQ2hq2sBEuuDay2xJR9mTTApc4S4M58TPUGP",
+      "symbol": "LILU",
+      "name": "Lilu coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/nkloga/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "KrBBFTDLguJdmaicTqneYmHNbZrmeYBG1RMj5DXhTD2",
+      "symbol": "BLOP",
+      "name": "Royal Blop",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sastrup85/Crypto/main/Blop.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EWpafQPbyz72h1degKhLTozmPZ1LGtMgH3KpQKkuUD7v",
+      "symbol": "S2COIN",
+      "name": "SQUAD2 COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sc4rn4/crypto/main/coins2.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cs6mFUDLT5CeHpodueDTZZppqHv9Mz1WWAcKTHU85ruk",
+      "symbol": "EZNFT",
+      "name": "EZ NFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ez-nft/token-list/main/assets/mainnet/Cs6mFUDLT5CeHpodueDTZZppqHv9Mz1WWAcKTHU85ruk/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "cXDYD5SkjTbJ3qeYr8n3pNXSSqa2Ht6UEeEzDhoxYzh",
+      "symbol": "PCC",
+      "name": "Pancake Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/godspeed110308/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2upsex3K1RLcsokoUA4CNcerV6aWTTja3LH5bS9626vR",
+      "symbol": "SPIT",
+      "name": "Spite Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bellasar/Spite/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7EnFmDwqvEh6iobuRhj3K7m4WQueeFZfZws8qeFMAzoh",
+      "symbol": "TRST",
+      "name": "TrustToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/barkour/open/main/BARKOUR%20copy.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9BmPGtFvmm57QgaUEdUhe6DE726XMKM1vh7DpYtV7jiE",
+      "symbol": "EXP",
+      "name": "Artist Expo Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9BmPGtFvmm57QgaUEdUhe6DE726XMKM1vh7DpYtV7jiE/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
